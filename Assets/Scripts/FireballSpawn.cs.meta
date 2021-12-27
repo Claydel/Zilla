@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7e6fb7e3e08ea548a3abc17d4ea0a3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireball: {fileID: 1067926363634326067, guid: cf65e4aaeb296634fbbb95c7a1754a55,
+      type: 3}
+  - MainCamera: {instanceID: 0}
+  - camPos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
